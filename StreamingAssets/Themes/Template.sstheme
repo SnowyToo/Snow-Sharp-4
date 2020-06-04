@@ -1,0 +1,9 @@
+DialogueText : xPos, yPos, w, h, font, colorRedVal, colorBlueVal, colorGreenVal, colorAlph, alignment
+
+DialogueBox : xPos, yPos, w, h, colorRedVal, colorBlueVal, colorGreenVal, colorAlph
+
+ChoiceBox : xPos, yPos, w, h, colorRedVal, colorBlueVal, colorGreenVal, colorAlph
+
+ChoiceCells : w, h, xSpace, ySpace
+
+Choices : textColorRedVal, textColorBlueVal, textColorGreenVal, textColorAlph, choiceAmount, textFont, buttomColorRedVal, buttomColorBlueVal, buttonColorGreenVal, buttonColorAlph

@@ -1,0 +1,9 @@
+DialogueText : 0, 0, 1170, 650, DisposableDroidBB, 1, 1, 1, 1, left
+
+DialogueBox : 0, 0, 1280, 720, 0, 0, 0, 0.5
+
+ChoiceBox : 0, -115, 970, 330, 0, 0, 0, 0.85
+
+ChoiceCells : 360, 85, 60, 35
+
+Choices : 1, 1, 1, 1, 6, DisposableDroidBB, 0.2, 0.2, 0.25, 1

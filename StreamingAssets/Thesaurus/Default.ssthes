@@ -1,0 +1,35 @@
+OpenTheme : LoadTheme, GetTheme, SetTheme
+
+SaveTheme : none
+
+SetPersistentVar : none
+
+SetVar : SaveVar
+
+ResetVar : Reset
+
+CompareVar : Compare
+
+SetCast : SetCharacters
+
+SetChar : CurrentChar, CurrentCharacter, SetCharacter, SwitchChar, SwitchCharacter
+
+Random : RandomChance, RAD
+
+GoTo : GoToKey, GetKey
+
+SetKey : SaveKey
+
+LoadThes : GetThes, OpenThes
+
+RequireChar : ReqChar, RequireCast, ReqCast, CastRequired, CharRequired, ShowChar, ShowCast
+
+SetSpeed : TextSpeed, SetTextSpeed, TextRate, TypeRate, TypeSpeed, SetTypeSpeed
+
+Wait : none
+
+LoadFile : NextFile, Load, SetFile, SetTree, LoadTree, NextTree, Tree
+
+Quit : none
+
+SetFont : none

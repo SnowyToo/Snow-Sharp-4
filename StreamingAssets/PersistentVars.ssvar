@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfEntry xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Entry>
+    <key>textSound</key>
+    <value>1</value>
+  </Entry>
+  <Entry>
+    <key>textAnim</key>
+    <value>1</value>
+  </Entry>
+  <Entry>
+    <key>backgroundMusic</key>
+    <value>1</value>
+  </Entry>
+  <Entry>
+    <key>hasStarted</key>
+    <value>1</value>
+  </Entry>
+  <Entry>
+    <key>openedLib</key>
+    <value>1</value>
+  </Entry>
+  <Entry>
+    <key>N1F</key>
+    <value>60</value>
+  </Entry>
+  <Entry>
+    <key>N1E</key>
+    <value>60</value>
+  </Entry>
+</ArrayOfEntry>
